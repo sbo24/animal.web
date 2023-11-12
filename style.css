@@ -1,0 +1,21 @@
+body {
+    background-color: #f5f9fc;
+}
+
+.bg-green{
+    background-color: #e5fae9;
+}
+
+.bg-dark-green{
+    background-color: #27a844;
+}
+
+table.striped tr:nth-child(even) {
+    background-color: #d8eddc;
+}
+.text-blue{
+    color: #68a8e9;
+}
+.border-n{
+    border-radius: 0%;
+ }
